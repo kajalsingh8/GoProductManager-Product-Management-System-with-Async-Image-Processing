@@ -1,0 +1,7 @@
+DBUser: "kajal"
+DBPassword: "123454321"
+DBName: "GoProductManager-Product-Management-System-with-Async-Image"
+DBHost: "localhost"
+DBPort: "5432"
+RabbitMQ: "amqp://guest:guest@localhost:5672/"
+RedisHost: "localhost:6379"
